@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>钢之炼金术师</title>
+    <style>
+    body{background-color:seashell}
+    h1{color:red;}
+    ul
+    {
+        list-style-type:none;
+        margin:0;
+        padding:0;
+        color: black
+    }  
+    li
+    {
+        display:inline;
+    }
+    .header-top 
+    {
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        background: #fff;
+        height: 46px;
+        font-size: 12px;
+        box-sizing: border-box;
+        z-index: 20;
+    }
+    .header 
+    {
+        background: #fff;
+        line-height: 46px;
+        padding-top: 46px;
+    }
+    </style>
+</head>
+<body>
+    <div id="header" class="header">
+        <div class="header-top">    
+            <div style="text-align: center">
+    
+                <li><a href="https://www.baidu.com">baidu</a></li>
+                <li><a href="http://www.w3school.com.cn">w3school</a></li>
+                <li><a href="https://www.bilibili.com/">bilibili</a></li>
+                <li><a href="https://www.google.com">google</a></li>
+    </ul>
+            </div> 
+        </div>
+    </div>
+    <div style="text-align: center">
+       <h1>钢之炼金术师fa</h1>
+    </div>
+    <div style="text-align: center">
+         <audio src="C:\Users\Administrator\Desktop\样品\a.MP3" controls="controls"></audio>
+         <a href="https://www.bilibili.com/bangumi/play/ep34361?from=search&seid=10833529251846620305" >番剧</a>
+    </div>
+    <div style="text-align: center">
+        <img src="C:\Users\Administrator\Desktop\样品\1.jpg" width="40%" height="40%"></img>
+    </div>
+    <div style="text-align: center">
+        <img src="C:\Users\Administrator\Desktop\样品\3.jpg" width="50%" height="50%"></img>
+    </div>
+    <div style="text-align: center">
+        <img src="C:\Users\Administrator\Desktop\样品\2.jpg" width="60%" height="60%"></img>
+    </div>
+    <div style="text-align: center">
+        <img src="C:\Users\Administrator\Desktop\样品\1.gif" width="1%" height="1%"></img>
+    </div>
+    <div style="text-align: center">
+        <p>金星宇</p>
+    </div>
+</body>
+</html>
