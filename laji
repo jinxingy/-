@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <style>
+        body{
+            background-color: blanchedalmond;
+        }
+    h1{
+        color:brown;
+    }
+    a11{
+width: 20%;
+    }
+    </style>
+</head>
+<body>
+    <h1>头</h1>
+    <p>身体</p>
+    <a href="https://www.baidu.com">点击前往百度</a>
+    <img src="C:\Users\Administrator\Desktop\21\001 (1).jpg" class="a11">
+</body>
+</html>
